@@ -1,6 +1,6 @@
 # replayable-web-quiz
 
-Ever wanted how to make intense js knowledge training? There are few guides and few tests, but once you've done them, they are of no use, just because now you remember all answers, and test result will be not valid.
+Ever wanted to do intense js knowledge training? There are few guides and few tests, but once you've done them, they are of no use, just because now you remember all answers, and test result will be not valid.
 
 There are a plenty of js/web quizes and tests on the internet, but all of them have one problem: you can't redo them later to see how your expertise had grown. The project intends to make question generation automated.
 
